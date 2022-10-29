@@ -1,0 +1,9 @@
+Package: com.ps.ytdarkeruyoupatch
+Name: YTDarker for uYou Patch
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Make YTDarker work correctly with uYou tweak.
+Maintainer: PoomSmart
+Author: PoomSmart
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
